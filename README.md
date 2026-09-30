@@ -17,6 +17,6 @@
 
 ## Udemy Courses
 
-- **[Microsoft Agent Framework (MAF)](https://www.udemy.com/course/ai-in-c-sharp-using-the-microsoft-agent-framework/?referralCode=34AF1BFA81E5E0C407A2)** — build AI applications in C#.
+- **[Microsoft Agent Framework](https://www.udemy.com/course/ai-in-c-sharp-using-the-microsoft-agent-framework/?referralCode=34AF1BFA81E5E0C407A2)** — build AI applications in C#.
 - **[TrelloDotNet](https://www.udemy.com/course/7120835)** — learn to use the Trello API in C#.
 - **[Codex for C# Developers](https://www.udemy.com/course/agentic-coding-for-csharp-developers-using-codex/?referralCode=AB157FD3610620CB344F)** — a course on using Codex for C# development.
