@@ -7,6 +7,9 @@
 - **[Agent Framework Toolkit](https://github.com/rwjdk/agent-framework-toolkit)** — an opinionated C# toolkit that makes working with Microsoft Agent Framework easier.
 - **[TrelloDotNet](https://github.com/rwjdk/trello-dotnet)** — a .NET library for the Trello REST API, created by me.
 
+- **[AgentSkillsDotNet](https://www.nuget.org/packages/AgentSkillsDotNet)** — a C# implementation of the Agent Skills format for loading skills and exposing them as AI tools.
+- **[JevDotNet](https://github.com/rwjdk/jev-dotnet)** — a convention-based .NET client for TypeSafe AI's Jev classification API.
+
 ## Sample Repos
 
 - **[Agent Framework Samples](https://github.com/rwjdk/agent-framework-samples)** — practical examples of Microsoft Agent Framework in C#.
