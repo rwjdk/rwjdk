@@ -10,8 +10,8 @@
 - **[Agent Framework Talks](https://github.com/rwjdk/agent-framework-talks)** — tech talks about Microsoft Agent Framework in C#.
 - **[TrelloDotNet](https://github.com/rwjdk/trello-dotnet)** — a .NET library for the Trello REST API, created by me.
 
-## Courses
+## Udemy Courses
 
-- **[Microsoft Agent Framework (MAF)](https://www.udemy.com/course/ai-in-c-sharp-using-the-microsoft-agent-framework/?referralCode=34AF1BFA81E5E0C407A2)** — build AI applications in C#; [course materials](https://github.com/rwjdk/agent-framework-course).
-- **[TrelloDotNet](https://github.com/rwjdk/trello-dotnet-course)** — learn to use the Trello API in C#.
-- **[Codex for C# Developers](https://github.com/rwjdk/codex-course)** — a course on using Codex for C# development.
+- **[Microsoft Agent Framework (MAF)](https://www.udemy.com/course/ai-in-c-sharp-using-the-microsoft-agent-framework/?referralCode=34AF1BFA81E5E0C407A2)** — build AI applications in C#.
+- **[TrelloDotNet](https://www.udemy.com/course/7120835)** — learn to use the Trello API in C#.
+- **[Codex for C# Developers](https://www.udemy.com/course/agentic-coding-for-csharp-developers-using-codex/?referralCode=AB157FD3610620CB344F)** — a course on using Codex for C# development.
